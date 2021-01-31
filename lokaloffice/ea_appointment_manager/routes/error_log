@@ -1,0 +1,4 @@
+[24-Oct-2019 16:08:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/u894261163/domains/yamatohipnoseclinica.hostingerapp.com/public_html/ea_appointment_manager/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/u894261163/domains/yamatohipnoseclinica.hostingerapp.com/public_html/ea_appointment_manager/routes/web.php on line 14

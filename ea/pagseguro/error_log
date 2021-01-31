@@ -1,0 +1,81 @@
+[13-Oct-2019 13:07:13 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 61
+[13-Oct-2019 13:16:18 UTC] PHP Parse error:  syntax error, unexpected 'o' (T_STRING) in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 105
+[13-Oct-2019 13:17:49 UTC] PHP Fatal error:  Class 'CI_Controller' not found in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 29
+[13-Oct-2019 13:35:05 UTC] PHP Fatal error:  Class 'CI_Controller' not found in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 29
+[13-Oct-2019 13:43:03 UTC] PHP Fatal error:  Class 'CI_Controller' not found in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 30
+[13-Oct-2019 13:43:06 UTC] PHP Fatal error:  Class 'CI_Controller' not found in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 30
+[13-Oct-2019 13:43:25 UTC] PHP Fatal error:  Class 'CI_Controller' not found in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 30
+[13-Oct-2019 13:43:55 UTC] PHP Fatal error:  Class 'Controller' not found in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 30
+[13-Oct-2019 13:52:33 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 75
+[13-Oct-2019 13:52:57 UTC] PHP Warning:  Illegal string offset 'id' in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 79
+[13-Oct-2019 13:52:57 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 79
+[13-Oct-2019 13:52:57 UTC] PHP Warning:  Illegal string offset 'hours' in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 80
+[13-Oct-2019 13:52:57 UTC] PHP Warning:  Illegal string offset 'first_name' in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 81
+[13-Oct-2019 13:52:57 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 81
+[13-Oct-2019 13:52:57 UTC] PHP Warning:  Illegal string offset 'last_name' in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 82
+[13-Oct-2019 13:52:57 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 82
+[13-Oct-2019 13:52:57 UTC] PHP Warning:  Illegal string offset 'email' in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 83
+[13-Oct-2019 13:52:57 UTC] PHP Warning:  Illegal string offset 'phone_number' in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 84
+[13-Oct-2019 13:52:57 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 84
+[13-Oct-2019 14:02:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com' at line 1 in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php:102
+Stack trace:
+#0 /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php(102): PDO->query('SELECT id, firs...')
+#1 {main}
+  thrown in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 102
+[13-Oct-2019 14:05:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com' at line 1 in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php:102
+Stack trace:
+#0 /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php(102): PDO->query('SELECT id, firs...')
+#1 {main}
+  thrown in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 102
+[13-Oct-2019 14:17:30 UTC] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 126
+[13-Oct-2019 14:19:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id=49' at line 1 in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php:109
+Stack trace:
+#0 /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php(109): PDOStatement->execute()
+#1 {main}
+  thrown in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 109
+[13-Oct-2019 14:19:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id=49' at line 1 in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php:109
+Stack trace:
+#0 /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php(109): PDOStatement->execute()
+#1 {main}
+  thrown in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 109
+[13-Oct-2019 14:20:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id='49'' at line 1 in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php:109
+Stack trace:
+#0 /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php(109): PDOStatement->execute()
+#1 {main}
+  thrown in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 109
+[13-Oct-2019 14:20:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id='49'' at line 1 in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php:109
+Stack trace:
+#0 /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php(109): PDOStatement->execute()
+#1 {main}
+  thrown in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 109
+[13-Oct-2019 14:21:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id=49' at line 1 in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php:109
+Stack trace:
+#0 /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php(109): PDOStatement->execute()
+#1 {main}
+  thrown in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 109
+[14-Oct-2019 01:11:04 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 109
+[14-Oct-2019 02:16:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php:120
+Stack trace:
+#0 /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php(120): PDOStatement->execute()
+#1 {main}
+  thrown in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 120
+[14-Oct-2019 18:10:56 UTC] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 79
+[14-Oct-2019 18:10:56 UTC] PHP Warning:  simplexml_load_string(): Not Found in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 79
+[14-Oct-2019 18:10:56 UTC] PHP Warning:  simplexml_load_string(): ^ in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 79
+[28-Oct-2019 16:31:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 210
+[28-Oct-2019 16:39:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 214
+[28-Oct-2019 16:50:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_apppointment' in 'where clause' in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php:144
+Stack trace:
+#0 /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php(144): PDO->query('SELECT id_pagse...')
+#1 {main}
+  thrown in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 144
+[28-Oct-2019 17:13:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function var_data() in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php:189
+Stack trace:
+#0 {main}
+  thrown in /home/u894261163/domains/yamatohipnoseclinica.com.br/public_html/ea/pagseguro/pagseguro_success.php on line 189
