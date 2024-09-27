@@ -1,2 +1,2 @@
 # yhc
-Sistema de gestão de Clínica de Hipnoterapia
+Sistema de gestão de Clínica
